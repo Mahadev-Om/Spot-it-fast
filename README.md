@@ -1,2 +1,2 @@
 # Spot-it-fast
-Built a sentiment analyzer using custom RNN and AWD_LSTM to decode emotional tone in reviews with 92%+ accuracy using deep NLP.
+YOLOv3-based real-time object detection system optimized for speed and vision intelligence in autonomous and edge environments.
